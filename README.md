@@ -1,3 +1,5 @@
+# README WILL BE COMPLETED ASAP
+
 # Video Game Rental System
 
 > Authors: Aaron Lin, Adhvait Purayil
