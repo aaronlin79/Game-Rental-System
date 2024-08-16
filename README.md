@@ -9,4 +9,8 @@ A video game rental system with an intuitive Java-based user interface that help
 
 ## Installation/Usage
 
+#### Installation:
+
+#### Usage:
+
 ## Query Optimization
